@@ -43,7 +43,7 @@
     <h1 class="error-title">400</h1>
     <h3 class="error-description">Unauthorized Access</h3>
 
-    <div class="error-companylogo" href="https://www.hexanenetworks.com">
+    <div class="error-companylogo">
         <a href="https://www.hexanenetworks.com">
         <img src="https://cdn.hexanenetworks.com/webhosting/errorpages/errorpage-companylogo-hexanenetworks-logo-white.png">
         </a>
