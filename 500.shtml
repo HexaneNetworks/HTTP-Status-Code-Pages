@@ -21,9 +21,9 @@
             color: #fff;
             font-size: 180px;
             text-align: center;
-			margin-bottom: .5rem;
-			font-weight: 500;
-			line-height: 1.2;
+            margin-bottom: .5rem;
+            font-weight: 500;
+            line-height: 1.2;
         }
 		
         .error-description {
@@ -31,9 +31,9 @@
             color: #fff;
             font-size: 50px;
             text-align: center;
-			margin-bottom: .5rem;
-			font-weight: 500;
-			line-height: 1.2;
+            margin-bottom: .5rem;
+            font-weight: 500;
+            line-height: 1.2;
         }
 		
         .error-companylogo {
@@ -41,6 +41,7 @@
             margin-bottom: 50px;
             text-align: center;
         }
+
     </style>
 
     <title>500 Error - Internal Server Error.</title>

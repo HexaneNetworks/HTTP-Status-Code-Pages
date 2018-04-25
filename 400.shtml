@@ -15,32 +15,33 @@
         .error-margin {
             margin-top: 250px;
         }
-		
+
         .error-title {
             font-family: 'Luckiest Guy', cursive;
             color: #fff;
             font-size: 180px;
             text-align: center;
-			margin-bottom: .5rem;
-			font-weight: 500;
-			line-height: 1.2;
+            margin-bottom: .5rem;
+            font-weight: 500;
+            line-height: 1.2;
         }
-		
+
         .error-description {
             font-family: 'Luckiest Guy', cursive;
             color: #fff;
             font-size: 50px;
             text-align: center;
-			margin-bottom: .5rem;
-			font-weight: 500;
-			line-height: 1.2;
+            margin-bottom: .5rem;
+            font-weight: 500;
+            line-height: 1.2;
         }
-		
+
         .error-companylogo {
             margin-top: 150px;
             margin-bottom: 50px;
             text-align: center;
         }
+
     </style>
 
     <title>400 Error - Bad Request.</title>
@@ -53,7 +54,7 @@
 
     <div class="error-companylogo">
         <a href="https://www.hexanenetworks.com">
-        <img src="https://cdn.hexanenetworks.com/webhosting/errorpages/errorpage-companylogo-hexanenetworks-logo-white.png">
+            <img src="https://cdn.hexanenetworks.com/webhosting/errorpages/errorpage-companylogo-hexanenetworks-logo-white.png">
         </a>
     </div>
 
