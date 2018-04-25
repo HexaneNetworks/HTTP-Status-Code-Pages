@@ -3,7 +3,6 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Luckiest+Guy" rel="stylesheet">
     <style>
         body {
@@ -16,18 +15,27 @@
         .error-margin {
             margin-top: 250px;
         }
+		
         .error-title {
             font-family: 'Luckiest Guy', cursive;
             color: #fff;
             font-size: 180px;
             text-align: center;
+			margin-bottom: .5rem;
+			font-weight: 500;
+			line-height: 1.2;
         }
+		
         .error-description {
             font-family: 'Luckiest Guy', cursive;
             color: #fff;
             font-size: 50px;
             text-align: center;
+			margin-bottom: .5rem;
+			font-weight: 500;
+			line-height: 1.2;
         }
+		
         .error-companylogo {
             margin-top: 150px;
             margin-bottom: 50px;
@@ -39,9 +47,9 @@
 </head>
 <body>
 
-<div class="container error-margin">
-    <h1 class="error-title">400</h1>
-    <h3 class="error-description">Bad Request - Server Error</h3>
+<div class="error-margin">
+    <p class="error-title">400</p>
+    <p class="error-description">Bad Request - Server Error</p>
 
     <div class="error-companylogo">
         <a href="https://www.hexanenetworks.com">
@@ -50,10 +58,6 @@
     </div>
 
 </div>
-
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
 </body>
 </html>
