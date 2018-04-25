@@ -1,8 +1,7 @@
 # HTTP Status Code Pages
-HTTP Status Code Pages for customer web hosting sites.
+Basic HTTP Status Code Pages for customer web hosting sites developed in HTML.
 
 ![GitHub release](https://img.shields.io/github/release/HexaneNetworks/HTTP-Status-Code-Pages.svg?style=for-the-badge)
-![Github All Releases](https://img.shields.io/github/downloads/HexaneNetworks/HTTP-Status-Code-Pages/total.svg?style=for-the-badge)
 
 # Previews
 
